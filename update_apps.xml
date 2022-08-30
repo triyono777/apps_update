@@ -3,10 +3,10 @@
     <channel>
         <title>SAC Assesment</title>
         <item>
-            <title>Version 1.0.6</title>
-            <description>perbaikan tampilan</description>
+            <title>Version 1.0.7</title>
+            <description>perbaikn cek kelengkapan profil, tambah animasi</description>
             <pubDate>Sen, 22 Agustus 2022 06:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.sac.apps" sparkle:version="1.0.6" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.sac.apps" sparkle:version="1.0.7" sparkle:os="android" />
         </item>
     </channel>
 </rss>
